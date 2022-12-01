@@ -1,5 +1,3 @@
-### 0x00. Python - Hello, World
-
 ### General Learning Objectives for this Repository
 
 - Why Python programming is awesome
